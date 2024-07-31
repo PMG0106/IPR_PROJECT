@@ -1,1 +1,3 @@
 # IPR_PROJECT
+This is my 1st year summer training project which is a temperature monitoring and fire control system. The whole idea of the project is to monitor the temperature of an interior space of vital importance such as data servers and display it via display devices such as LCDs. A flame sensor is also incorporated in Ithe system which has an inbuilt buzzer so that it beeps whenever it detects the presence of fire.
+Th scope of the project can be further increased by adding different coloured LEDs to showcase the temperature is maintained within the safe range of working temperature. ALso, cooling sensors or sprinkler systems can be added to extinguish the fire.
